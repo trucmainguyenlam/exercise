@@ -1,1 +1,1 @@
-Check content of new file on new branch
+This is the new line in new_branch
