@@ -1,2 +1,2 @@
 #!/usr/bin/env python
-print "This is collab!"
+print "This is collaboration!"
